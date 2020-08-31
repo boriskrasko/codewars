@@ -2,21 +2,6 @@
 
 # Codewars Stage 1:
 
-### String
-  1. [x] 8 kyu https://www.codewars.com/kata/reversed-strings
-  2. [x] 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
-  3. [x] 8 kyu https://www.codewars.com/kata/palindrome-strings
-  4. [x] 7 kyu https://www.codewars.com/kata/anagram-detection
-  5. [x] 7 kyu https://www.codewars.com/kata/birthday-i-cake
-
-### Number
-  6. [x] 8 kyu https://www.codewars.com/kata/even-or-odd
-  7. [x] 8 kyu https://www.codewars.com/kata/century-from-year
-  8. [x] 7 kyu https://www.codewars.com/kata/greatest-common-divisor
-  9. [x] 7 kyu https://www.codewars.com/kata/factorial
-  10. [x] 7 kyu https://www.codewars.com/kata/find-the-duplicated-number-in-a-consecutive-unsorted-list
-  11. [x] 6 kyu https://www.codewars.com/kata/is-a-number-prime/
-
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
   13. [x] 8 kyu https://www.codewars.com/kata/sum-of-positive
