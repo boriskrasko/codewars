@@ -2,6 +2,9 @@
 
 # Codewars Stage 1:
 
+### String
+  1. [x] 8 kyu https://www.codewars.com/kata/reversed-strings
+
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
   13. [x] 8 kyu https://www.codewars.com/kata/sum-of-positive
