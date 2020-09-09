@@ -5,6 +5,7 @@
 ### String
   1. [x] 8 kyu https://www.codewars.com/kata/reversed-strings
   2. [x] 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
+  3. [x] 8 kyu https://www.codewars.com/kata/palindrome-strings
 
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
