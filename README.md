@@ -7,6 +7,7 @@
   2. [x] 8 kyu https://www.codewars.com/kata/remove-first-and-last-character
   3. [x] 8 kyu https://www.codewars.com/kata/palindrome-strings
   4. [x] 7 kyu https://www.codewars.com/kata/anagram-detection
+  5. [x] 7 kyu https://www.codewars.com/kata/birthday-i-cake
 
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
