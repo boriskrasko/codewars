@@ -9,6 +9,9 @@
   4. [x] 7 kyu https://www.codewars.com/kata/anagram-detection
   5. [x] 7 kyu https://www.codewars.com/kata/birthday-i-cake
 
+  ### Number
+  6. [x] 8 kyu https://www.codewars.com/kata/even-or-odd
+
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
   13. [x] 8 kyu https://www.codewars.com/kata/sum-of-positive
