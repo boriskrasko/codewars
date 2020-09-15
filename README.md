@@ -11,7 +11,7 @@
 
 ### Number
   6. [x] 8 kyu https://www.codewars.com/kata/even-or-odd
-  7. 8 kyu https://www.codewars.com/kata/century-from-year
+  7. [x] 8 kyu https://www.codewars.com/kata/century-from-year
   8. 7 kyu https://www.codewars.com/kata/greatest-common-divisor
   9. 7 kyu https://www.codewars.com/kata/factorial
   10. 7 kyu https://www.codewars.com/kata/find-the-duplicated-number-in-a-consecutive-unsorted-list
