@@ -12,6 +12,8 @@
   ### Number
   6. [x] 8 kyu https://www.codewars.com/kata/even-or-odd
   7. [x] 8 kyu https://www.codewars.com/kata/century-from-year
+  8. [x] 7 kyu https://www.codewars.com/kata/greatest-common-divisor
+  
 
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
