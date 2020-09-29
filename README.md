@@ -13,7 +13,7 @@
   6. [x] 8 kyu https://www.codewars.com/kata/even-or-odd
   7. [x] 8 kyu https://www.codewars.com/kata/century-from-year
   8. [x] 7 kyu https://www.codewars.com/kata/greatest-common-divisor
-  9. 7 kyu https://www.codewars.com/kata/factorial
+  9. [x] 7 kyu https://www.codewars.com/kata/factorial
   10. 7 kyu https://www.codewars.com/kata/find-the-duplicated-number-in-a-consecutive-unsorted-list
   11. 6 kyu https://www.codewars.com/kata/is-a-number-prime/
 
