@@ -21,10 +21,10 @@
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
   13. [x] 8 kyu https://www.codewars.com/kata/sum-of-positive
   14. [x] 7 kyu https://www.codewars.com/kata/fizz-buzz
-  15. 7 kyu https://www.codewars.com/kata/currying-functions-multiply-all-elements-in-an-array
-  16. 7 kyu https://www.codewars.com/kata/shortest-word
-  17. 7 kyu https://www.codewars.com/kata/square-every-digit
-  18. 7 kyu https://www.codewars.com/kata/easy-mathematical-callback
+  15. [x] 7 kyu https://www.codewars.com/kata/currying-functions-multiply-all-elements-in-an-array
+  16. [x] 7 kyu https://www.codewars.com/kata/shortest-word
+  17. [x] 7 kyu https://www.codewars.com/kata/square-every-digit
+  18. [x] 7 kyu https://www.codewars.com/kata/easy-mathematical-callback
 
 ### Object
   19. 6 kyu https://www.codewars.com/kata/count-characters-in-your-string
