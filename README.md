@@ -15,6 +15,7 @@
   8. [x] 7 kyu https://www.codewars.com/kata/greatest-common-divisor
   9. [x] 7 kyu https://www.codewars.com/kata/factorial
   10.[x] 7 kyu https://www.codewars.com/kata/find-the-duplicated-number-in-a-consecutive-unsorted-list
+  
   11.[x] 6 kyu https://www.codewars.com/kata/is-a-number-prime/
 
 ### Array
