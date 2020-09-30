@@ -19,7 +19,7 @@
 
 ### Array
   12. [x] 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
-  13. 8 kyu https://www.codewars.com/kata/sum-of-positive
+  13. [x] 8 kyu https://www.codewars.com/kata/sum-of-positive
   14. [x] 7 kyu https://www.codewars.com/kata/fizz-buzz
   15. 7 kyu https://www.codewars.com/kata/currying-functions-multiply-all-elements-in-an-array
   16. 7 kyu https://www.codewars.com/kata/shortest-word
