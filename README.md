@@ -30,7 +30,7 @@
   19. 6 kyu https://www.codewars.com/kata/count-characters-in-your-string
 
 ### Regular expression 
-  20. 8 kyu https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
+  20. [x] 8 kyu https://www.codewars.com/kata/simple-validation-of-a-username-with-regex
   21. 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-letter
   22. 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-vowel/
 
