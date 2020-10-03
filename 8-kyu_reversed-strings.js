@@ -2,7 +2,6 @@
 
 //'world'  =>  'dlrow'
 
-
 function solution(str){
   let i = str.length - 1;
   let result = '';
