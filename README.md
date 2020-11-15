@@ -35,8 +35,4 @@
   21. [x] 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-letter
   22. [x] 7 kyu https://www.codewars.com/kata/regexp-basics-is-it-a-vowel/
 
- ## Scoring criteria
-  2 point for 8 kyu tasks (8 tasks at all)  
-  3 point for 7 kyu tasks (12 at all)  
-  4 points for 6 kyu tasks (2 at all)  
-  Total: 2 * 8 + 3 * 12 + 4 * 2 = 60 
+
