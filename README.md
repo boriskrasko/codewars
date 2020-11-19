@@ -4,7 +4,7 @@
    - [x] 1. (8 kyu) http://www.codewars.com/kata/opposite-number
    - [x] 2. (8 kyu) http://www.codewars.com/kata/basic-mathematical-operations
    - [x] 3. (8 kyu) http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
-   4. (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
+   - [x] 4. (8 kyu) http://www.codewars.com/kata/transportation-on-vacation
    - [x] 5. (7 kyu) http://www.codewars.com/kata/get-the-middle-character
    6. (5 kyu) http://www.codewars.com/kata/partition-on
    7. (8 kyu) http://www.codewars.com/kata/word-count
