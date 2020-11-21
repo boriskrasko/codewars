@@ -10,7 +10,7 @@
    - [x] 7. (8 kyu) http://www.codewars.com/kata/word-count
    8. (8 kyu) http://www.codewars.com/kata/remove-first-and-last-character-part-two
    9. (8 kyu) http://www.codewars.com/kata/implement-array-dot-prototype-dot-filter-1
-   10. (6 kyu) http://www.codewars.com/kata/prefill-an-array
+   - [x] 10. (6 kyu) http://www.codewars.com/kata/prefill-an-array
    11. (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
    12. (7 kyu) http://www.codewars.com/kata/sequence-generator-1
    13. (6 kyu) https://www.codewars.com/kata/base-conversion/
