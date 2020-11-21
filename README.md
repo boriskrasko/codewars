@@ -25,7 +25,7 @@
    22. (6 kyu) http://www.codewars.com/kata/stringing-me-along
    23. (5 kyu) http://www.codewars.com/kata/i-spy
    24. (5 kyu) http://www.codewars.com/kata/calculating-with-functions
-   25. (7 kyu) http://www.codewars.com/kata/santaclausable-interface
+   - [x] 25. (7 kyu) http://www.codewars.com/kata/santaclausable-interface
    26. (6 kyu) http://www.codewars.com/kata/new-with-apply
    27. (6 kyu) http://www.codewars.com/kata/extract-nested-object-reference
    28. (6 kyu) http://www.codewars.com/kata/array-helpers
