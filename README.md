@@ -31,7 +31,7 @@
    28. (6 kyu) http://www.codewars.com/kata/array-helpers
    29. (5 kyu) http://www.codewars.com/kata/replicate-new
    30. (6 kyu) http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
-   31. (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
+   - [x] 31. (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
    - [x] 32. (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
 
    ---
