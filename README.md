@@ -14,7 +14,7 @@
    - [x] 11. (7 kyu) http://www.codewars.com/kata/cross-product-of-vectors
    - [x] 12. (7 kyu) http://www.codewars.com/kata/sequence-generator-1
    - [ ] 13. (6 kyu) https://www.codewars.com/kata/base-conversion/
-   14. (6 kyu) http://www.codewars.com/kata/closures-and-scopes
+   - [ ] 14. (6 kyu) http://www.codewars.com/kata/closures-and-scopes
    15. (Beta) http://www.codewars.com/kata/a-function-within-a-function
    16. (6 kyu) http://www.codewars.com/kata/can-you-keep-a-secret
    17. (5 kyu) http://www.codewars.com/kata/using-closures-to-share-class-state
