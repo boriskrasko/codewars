@@ -28,7 +28,7 @@
    - [x] 25. (7 kyu) http://www.codewars.com/kata/santaclausable-interface
    26. (6 kyu) http://www.codewars.com/kata/new-with-apply
    27. (6 kyu) http://www.codewars.com/kata/extract-nested-object-reference
-   - [x] 28. (6 kyu) http://www.codewars.com/kata/array-helpers
+   - [ ] 28. (6 kyu) http://www.codewars.com/kata/array-helpers
    29. (5 kyu) http://www.codewars.com/kata/replicate-new
    - [x] 30. (6 kyu) http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
    - [x] 31. (7 kyu) http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
